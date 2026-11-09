@@ -1,4 +1,4 @@
-# NT Dock
+# Dock
 
 Aplicativo desktop pessoal para Windows 10/11, com barra de vidro, ampliação de ícones e perfis de Desenvolvimento, Trabalho, Estudo e Lazer. Código Python/PySide6 com integração Win32/DWM. Interface inspirada no dock do macOS, com identidade NT.
 
