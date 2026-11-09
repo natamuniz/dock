@@ -38,14 +38,14 @@ def _custom_palette(values, color):
 
 
 PRESETS = {
-    "glass": {"name": "Vidro", "top": "#EAF2FA", "bottom": "#C3D5E5", "border": "#F8FCFF", "foreground": "#203348", "radius": 15},
-    "midnight": {"name": "Maré noturna", "top": "#173B48", "bottom": "#102530", "border": "#477B8C", "foreground": "#F1F7FA", "radius": 15},
-    "pier": {"name": "Cais", "top": "#51483F", "bottom": "#282B30", "border": "#AA9B86", "foreground": "#FBF5ED", "radius": 6},
-    "lagoon": {"name": "Lagoa", "top": "#299F93", "bottom": "#145951", "border": "#86E2CA", "foreground": "#F0FFF9", "radius": 15},
-    "beacon": {"name": "Farol", "top": "#282638", "bottom": "#191A27", "border": "#BBA5ED", "foreground": "#F9F4FF", "radius": 18},
-    "buoy": {"name": "Boia", "top": "#F2A14D", "bottom": "#CA583F", "border": "#FFE0B3", "foreground": "#FFF9F1", "radius": 15},
-    "sand": {"name": "Areia", "top": "#F1DFC0", "bottom": "#C5AE8D", "border": "#FFF5DE", "foreground": "#493D30", "radius": 13},
-    "raft": {"name": "Jangada", "top": "#9B9BD8", "bottom": "#666EA9", "border": "#D3D6FF", "foreground": "#F9FAFF", "radius": 18},
+    "glass": {"name": "Gelo", "top": "#EAF2FA", "bottom": "#C3D5E5", "border": "#F8FCFF", "foreground": "#203348", "radius": 15},
+    "midnight": {"name": "Azul petróleo", "top": "#173B48", "bottom": "#102530", "border": "#477B8C", "foreground": "#F1F7FA", "radius": 15},
+    "pier": {"name": "Grafite", "top": "#51483F", "bottom": "#282B30", "border": "#AA9B86", "foreground": "#FBF5ED", "radius": 6},
+    "lagoon": {"name": "Verde jade", "top": "#299F93", "bottom": "#145951", "border": "#86E2CA", "foreground": "#F0FFF9", "radius": 15},
+    "beacon": {"name": "Roxo profundo", "top": "#282638", "bottom": "#191A27", "border": "#BBA5ED", "foreground": "#F9F4FF", "radius": 18},
+    "buoy": {"name": "Laranja coral", "top": "#F2A14D", "bottom": "#CA583F", "border": "#FFE0B3", "foreground": "#FFF9F1", "radius": 15},
+    "sand": {"name": "Bege dourado", "top": "#F1DFC0", "bottom": "#C5AE8D", "border": "#FFF5DE", "foreground": "#493D30", "radius": 13},
+    "raft": {"name": "Lavanda", "top": "#9B9BD8", "bottom": "#666EA9", "border": "#D3D6FF", "foreground": "#F9FAFF", "radius": 18},
 }
 
 
