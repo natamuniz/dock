@@ -1,0 +1,62 @@
+{
+  "before": [
+    72,
+    0,
+    1920,
+    1200
+  ],
+  "monitor": [
+    0,
+    0,
+    1920,
+    1200
+  ],
+  "results": [
+    {
+      "position": "bottom",
+      "workarea": [
+        0,
+        0,
+        1920,
+        1065
+      ],
+      "thickness_physical": 135,
+      "hide_show": "OK",
+      "shelf_inside_reserved_strip": "OK"
+    },
+    {
+      "position": "left",
+      "workarea": [
+        135,
+        0,
+        1920,
+        1200
+      ],
+      "thickness_physical": 135,
+      "hide_show": "OK",
+      "shelf_inside_reserved_strip": "OK"
+    },
+    {
+      "position": "right",
+      "workarea": [
+        0,
+        0,
+        1785,
+        1200
+      ],
+      "thickness_physical": 135,
+      "hide_show": "OK",
+      "shelf_inside_reserved_strip": "OK"
+    },
+    {
+      "forced_exit": 77,
+      "watchdog_restored_workarea_and_taskbar": "OK"
+    }
+  ],
+  "after": [
+    72,
+    0,
+    1920,
+    1200
+  ]
+}

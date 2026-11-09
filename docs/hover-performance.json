@@ -1,0 +1,8 @@
+{
+  "frames": 240,
+  "processing_ms_mean": 3.26,
+  "processing_ms_p95": 4.433,
+  "processing_ms_max": 6.468,
+  "metrics_dispatch_ms_mean": 0.0013,
+  "note": "Qt native render on Windows DPI150%; measures processing, not display presentation cadence"
+}

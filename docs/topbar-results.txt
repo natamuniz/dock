@@ -1,0 +1,12 @@
+test_custom_font_and_color_apply_without_expanding_the_bar (test_topbar.TopBarTests.test_custom_font_and_color_apply_without_expanding_the_bar) ... ok
+test_dependency_and_manual_hide_release_visibility (test_topbar.TopBarTests.test_dependency_and_manual_hide_release_visibility) ... ok
+test_narrow_monitor_elides_profile_and_keeps_controls_inside (test_topbar.TopBarTests.test_narrow_monitor_elides_profile_and_keeps_controls_inside) ... ok
+test_profiles_menu_switches_with_no_configuration_copy_loss (test_topbar.TopBarTests.test_profiles_menu_switches_with_no_configuration_copy_loss) ... ok
+test_status_reports_only_real_volume_and_battery_values (test_topbar.TopBarTests.test_status_reports_only_real_volume_and_battery_values) ... ok
+test_system_controls_use_declared_native_callbacks (test_topbar.TopBarTests.test_system_controls_use_declared_native_callbacks) ... ok
+test_top_reservation_is_independent_idempotent_and_released (test_topbar.TopBarTests.test_top_reservation_is_independent_idempotent_and_released) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.080s
+
+OK

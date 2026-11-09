@@ -1,0 +1,10 @@
+{
+  "windows": [
+    {
+      "process": "ChatGPT.exe",
+      "bottom_corner_cut": true,
+      "center_preserved": true
+    }
+  ],
+  "restored": true
+}

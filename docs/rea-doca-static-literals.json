@@ -1,0 +1,137 @@
+{
+  "method": "Python exact byte search; not REA Evidence",
+  "source": "C:\\Program Files\\WindowsApps\\Racoelho.Doca_1.0.26.0_x64__z9dx3qx00ky50\\Doca.exe",
+  "findings": [
+    {
+      "literal": "SHAppBarMessage",
+      "encoding": "ascii",
+      "offset": 11815823
+    },
+    {
+      "literal": "SystemParametersInfoW",
+      "encoding": "ascii",
+      "offset": 14624935
+    },
+    {
+      "literal": "SetWindowPos",
+      "encoding": "ascii",
+      "offset": 11819044
+    },
+    {
+      "literal": "GetWindowPlacement",
+      "encoding": "ascii",
+      "offset": 11818056
+    },
+    {
+      "literal": "ShowWindow",
+      "encoding": "ascii",
+      "offset": 11816601
+    },
+    {
+      "literal": "DwmSetWindowAttribute",
+      "encoding": "ascii",
+      "offset": 11814208
+    },
+    {
+      "literal": "RegisterHotKey",
+      "encoding": "ascii",
+      "offset": 11816994
+    },
+    {
+      "literal": "GetWindowLongPtrW",
+      "encoding": "ascii",
+      "offset": 14623087
+    },
+    {
+      "literal": "Magnification",
+      "encoding": "ascii",
+      "offset": 11542119
+    },
+    {
+      "literal": "Magnification",
+      "encoding": "utf-16-le",
+      "offset": 22580968
+    },
+    {
+      "literal": "IconSize",
+      "encoding": "ascii",
+      "offset": 11541997
+    },
+    {
+      "literal": "IconSize",
+      "encoding": "utf-16-le",
+      "offset": 22958564
+    },
+    {
+      "literal": "Backdrop",
+      "encoding": "ascii",
+      "offset": 11332795
+    },
+    {
+      "literal": "Backdrop",
+      "encoding": "utf-16-le",
+      "offset": 22795292
+    },
+    {
+      "literal": "Acrylic",
+      "encoding": "ascii",
+      "offset": 11541928
+    },
+    {
+      "literal": "Acrylic",
+      "encoding": "utf-16-le",
+      "offset": 23038972
+    },
+    {
+      "literal": "AutoHide",
+      "encoding": "ascii",
+      "offset": 11391053
+    },
+    {
+      "literal": "AutoHide",
+      "encoding": "utf-16-le",
+      "offset": 22573152
+    },
+    {
+      "literal": "Taskbar",
+      "encoding": "ascii",
+      "offset": 11406943
+    },
+    {
+      "literal": "Taskbar",
+      "encoding": "utf-16-le",
+      "offset": 23309252
+    },
+    {
+      "literal": "Spring",
+      "encoding": "ascii",
+      "offset": 11889987
+    },
+    {
+      "literal": "Spring",
+      "encoding": "utf-16-le",
+      "offset": 23038286
+    },
+    {
+      "literal": "ScaleTransform",
+      "encoding": "ascii",
+      "offset": 11627163
+    },
+    {
+      "literal": "ScaleTransform",
+      "encoding": "utf-16-le",
+      "offset": 23116724
+    },
+    {
+      "literal": "TranslateTransform",
+      "encoding": "ascii",
+      "offset": 25215288
+    },
+    {
+      "literal": "TranslateTransform",
+      "encoding": "utf-16-le",
+      "offset": 23117596
+    }
+  ],
+  "limitations": "Literal presence does not establish calls, values, or runtime behavior. First occurrence only."
+}

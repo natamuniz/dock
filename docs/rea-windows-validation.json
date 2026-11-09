@@ -1,0 +1,67 @@
+{
+  "original_workarea": [
+    72,
+    0,
+    1920,
+    1200
+  ],
+  "results": [
+    {
+      "position": "bottom",
+      "workarea": [
+        0,
+        0,
+        1920,
+        1100
+      ],
+      "existing_maximized_window": [
+        -11,
+        -11,
+        1931,
+        1111
+      ],
+      "preserved_maximized": true,
+      "hide_show": "OK"
+    },
+    {
+      "position": "left",
+      "workarea": [
+        100,
+        0,
+        1920,
+        1200
+      ],
+      "existing_maximized_window": [
+        89,
+        -11,
+        1931,
+        1211
+      ],
+      "preserved_maximized": true,
+      "hide_show": "OK"
+    },
+    {
+      "position": "right",
+      "workarea": [
+        0,
+        0,
+        1820,
+        1200
+      ],
+      "existing_maximized_window": [
+        -11,
+        -11,
+        1831,
+        1211
+      ],
+      "preserved_maximized": true,
+      "hide_show": "OK"
+    }
+  ],
+  "restored_workarea": [
+    72,
+    0,
+    1920,
+    1200
+  ]
+}

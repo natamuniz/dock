@@ -1,0 +1,1811 @@
+{
+  "method": "Python ASCII string search; not REA Evidence",
+  "source": "C:\\Program Files\\WindowsApps\\Racoelho.Doca_1.0.26.0_x64__z9dx3qx00ky50\\Doca.exe",
+  "items": [
+    {
+      "offset": 11201412,
+      "text": " Microsoft Corporation. All rights reserved."
+    },
+    {
+      "offset": 11201867,
+      "text": "rCopyright (c) Microsoft Corporation. All rights reserved.C"
+    },
+    {
+      "offset": 11233165,
+      "text": "DockChromeg"
+    },
+    {
+      "offset": 11233241,
+      "text": "DockItemPanel"
+    },
+    {
+      "offset": 11233317,
+      "text": "DockItemView"
+    },
+    {
+      "offset": 11233450,
+      "text": "DockWindow"
+    },
+    {
+      "offset": 11237436,
+      "text": "&EnvironmentDotsView"
+    },
+    {
+      "offset": 11237514,
+      "text": ",EnvironmentStripWindow"
+    },
+    {
+      "offset": 11238009,
+      "text": "OtherDockWindow"
+    },
+    {
+      "offset": 11238105,
+      "text": "&OverviewEnvironment"
+    },
+    {
+      "offset": 11238796,
+      "text": "SeparatorHandle"
+    },
+    {
+      "offset": 11239022,
+      "text": "\"TopBarEnvironment"
+    },
+    {
+      "offset": 11249776,
+      "text": "Environment"
+    },
+    {
+      "offset": 11297210,
+      "text": " ISQLite3Provider\"PreserveAttribute"
+    },
+    {
+      "offset": 11316992,
+      "text": "tchEnvironment>d__5230<ToggleStackAsync>d__491"
+    },
+    {
+      "offset": 11326678,
+      "text": "DockerFace"
+    },
+    {
+      "offset": 11329974,
+      "text": "DockerReach"
+    },
+    {
+      "offset": 11330031,
+      "text": "DockerSnapshot"
+    },
+    {
+      "offset": 11330050,
+      "text": "DockerFeed"
+    },
+    {
+      "offset": 11331997,
+      "text": "DockAppBar"
+    },
+    {
+      "offset": 11332065,
+      "text": "&EnvironmentSwitcher"
+    },
+    {
+      "offset": 11335565,
+      "text": "HDoca_SeparatorHandleWinRTTypeDetails0Doca_AppWinRTTypeDetails~Doca_Doca_App_XamlTypeInfo_XamlMetaDataProviderWinRTTypeDetailszDoca_Doca_App_XamlTypeInfo_XamlSystemBaseTypeWinRTTypeDetailsVDoca_Servic"
+    },
+    {
+      "offset": 11335765,
+      "text": "es_GlassBackdropWinRTTypeDetailsjDoca_Doca_App_XamlTypeInfo_XamlMemberWinRTTypeDetailsJDoca_Settings_ChipRowWinRTTypeDetails`Doca_Settings_ChipPanel_ChipPeerWinRTTypeDetails>Doca_DockWindowWinRTTypeDe"
+    },
+    {
+      "offset": 11335965,
+      "text": "tailsZDoca_Settings_ChipRow_RowPeerWinRTTypeDetailsVDoca_DockItemPanel_ItemPeerWinRTTypeDetailsC"
+    },
+    {
+      "offset": 11390611,
+      "text": "AppBarGuard"
+    },
+    {
+      "offset": 11390872,
+      "text": "DockerContainer"
+    },
+    {
+      "offset": 11390892,
+      "text": "DockerEngine"
+    },
+    {
+      "offset": 11391053,
+      "text": "AutoHide"
+    },
+    {
+      "offset": 11395328,
+      "text": "DockBackups"
+    },
+    {
+      "offset": 11395398,
+      "text": "DockFit"
+    },
+    {
+      "offset": 11395698,
+      "text": "DockMigrations"
+    },
+    {
+      "offset": 11395843,
+      "text": "DockOrder"
+    },
+    {
+      "offset": 11396010,
+      "text": "DockRowModel"
+    },
+    {
+      "offset": 11396111,
+      "text": "DockRow"
+    },
+    {
+      "offset": 11396177,
+      "text": "DockStore"
+    },
+    {
+      "offset": 11396187,
+      "text": "DockStyle"
+    },
+    {
+      "offset": 11396446,
+      "text": "DockInk"
+    },
+    {
+      "offset": 11396499,
+      "text": "DockLook"
+    },
+    {
+      "offset": 11396512,
+      "text": "DockBackground"
+    },
+    {
+      "offset": 11396597,
+      "text": "DockPosition"
+    },
+    {
+      "offset": 11396665,
+      "text": "DockTheme"
+    },
+    {
+      "offset": 11397680,
+      "text": "DockThemes"
+    },
+    {
+      "offset": 11398303,
+      "text": "Environments"
+    },
+    {
+      "offset": 11398683,
+      "text": ",$WindowEnvironments"
+    },
+    {
+      "offset": 11403754,
+      "text": "DockEnvironment"
+    },
+    {
+      "offset": 11404412,
+      "text": "DockState"
+    },
+    {
+      "offset": 11406943,
+      "text": "TaskbarMode"
+    },
+    {
+      "offset": 11407999,
+      "text": "DockJsonContext"
+    },
+    {
+      "offset": 11409449,
+      "text": ".PresentationEnvironment"
+    },
+    {
+      "offset": 11411282,
+      "text": "TaskbarBackup"
+    },
+    {
+      "offset": 11411296,
+      "text": "TaskbarPins"
+    },
+    {
+      "offset": 11411337,
+      "text": "DockReport"
+    },
+    {
+      "offset": 11473111,
+      "text": "<Fetch>d__18\"<LoadStatic>d__19\"<FromTaskbar>d__1"
+    },
+    {
+      "offset": 11475580,
+      "text": "4TypeForwardedFromAttributeBCompilerLoweringPreserveAttributeg"
+    },
+    {
+      "offset": 11483131,
+      "text": "OutAttribute(PreserveSigAttributeg"
+    },
+    {
+      "offset": 11493074,
+      "text": "SpaceSeparator"
+    },
+    {
+      "offset": 11493089,
+      "text": "LineSeparator$ParagraphSeparator"
+    },
+    {
+      "offset": 11541414,
+      "text": "OtherDocks"
+    },
+    {
+      "offset": 11541928,
+      "text": "Acrylic"
+    },
+    {
+      "offset": 11541993,
+      "text": "get_IconSize"
+    },
+    {
+      "offset": 11542006,
+      "text": "set_IconSize"
+    },
+    {
+      "offset": 11542114,
+      "text": "\"get_Magnification\"set_Magnification"
+    },
+    {
+      "offset": 11542301,
+      "text": "get_AutoHide@"
+    },
+    {
+      "offset": 11542322,
+      "text": "set_AutoHide@"
+    },
+    {
+      "offset": 11542651,
+      "text": "IconSize"
+    },
+    {
+      "offset": 11542704,
+      "text": "Magnification"
+    },
+    {
+      "offset": 11543329,
+      "text": "\"get_EnvironmentId\"set_EnvironmentId@"
+    },
+    {
+      "offset": 11543453,
+      "text": "EnvironmentId"
+    },
+    {
+      "offset": 11546765,
+      "text": "0get_CurrentEnvironmentId0set_CurrentEnvironmentId get_Environments@"
+    },
+    {
+      "offset": 11546840,
+      "text": " set_Environments@"
+    },
+    {
+      "offset": 11547323,
+      "text": " get_ReserveSpace set_ReserveSpace"
+    },
+    {
+      "offset": 11547492,
+      "text": "get_TaskbarMode@"
+    },
+    {
+      "offset": 11547516,
+      "text": "set_TaskbarMode@"
+    },
+    {
+      "offset": 11547758,
+      "text": "get_HarborDock"
+    },
+    {
+      "offset": 11547773,
+      "text": "set_HarborDock get_IslandExtras@"
+    },
+    {
+      "offset": 11548117,
+      "text": "(get_HideOtherWindows(set_HideOtherWindows$get_OnboardingDone$set_OnboardingDone&get_LastSeenVersion&set_LastSeenVersion2get_StartupDefaultApplied2set_StartupDefaultApplied:get_IndicatorEnvironmentCol"
+    },
+    {
+      "offset": 11548317,
+      "text": "or:set_IndicatorEnvironmentColor4get_EnvironmentDotsVisible4set_EnvironmentDotsVisible,get_FocusEnvironmentId,set_FocusEnvironmentId"
+    },
+    {
+      "offset": 11548581,
+      "text": "(CurrentEnvironmentId"
+    },
+    {
+      "offset": 11548855,
+      "text": "ReserveSpace"
+    },
+    {
+      "offset": 11549080,
+      "text": "HarborDock"
+    },
+    {
+      "offset": 11549355,
+      "text": "2IndicatorEnvironmentColor"
+    },
+    {
+      "offset": 11549389,
+      "text": ",EnvironmentDotsVisible"
+    },
+    {
+      "offset": 11549420,
+      "text": "$FocusEnvironmentId"
+    },
+    {
+      "offset": 11549802,
+      "text": "set_ExpiredSeen.get_SwitchedEnvironment.set_SwitchedEnvironment"
+    },
+    {
+      "offset": 11549994,
+      "text": "&SwitchedEnvironment"
+    },
+    {
+      "offset": 11550382,
+      "text": "$EnvironmentsUnused"
+    },
+    {
+      "offset": 11550561,
+      "text": "get_Dock@"
+    },
+    {
+      "offset": 11550578,
+      "text": "set_Dock@"
+    },
+    {
+      "offset": 11551631,
+      "text": "get_Environment"
+    },
+    {
+      "offset": 11551647,
+      "text": "set_Environment"
+    },
+    {
+      "offset": 11551663,
+      "text": "get_Docks@"
+    },
+    {
+      "offset": 11551681,
+      "text": "set_Docks@"
+    },
+    {
+      "offset": 11551727,
+      "text": "Docks@"
+    },
+    {
+      "offset": 11553005,
+      "text": "<JsonKebabCaseLowerNamingPolicy2JsonSeparatorNamingPolicy<JsonKebabCaseUpperNamingPolicy<JsonSnakeCaseLowerNamingPolicy<JsonSnakeCaseUpperNamingPolicy"
+    },
+    {
+      "offset": 11572892,
+      "text": "UpDownCounter`12<Reserved1>e__FixedBuffer2<Reserved7>e__FixedBuffer"
+    },
+    {
+      "offset": 11586249,
+      "text": "DExecutionEnvironmentImplementation["
+    },
+    {
+      "offset": 11588379,
+      "text": " TypeBuilderState*TypeLoaderEnvironment+"
+    },
+    {
+      "offset": 11603246,
+      "text": "&MenuFlyoutSeparator"
+    },
+    {
+      "offset": 11603296,
+      "text": "(IMenuFlyoutSeparatorg#"
+    },
+    {
+      "offset": 11609980,
+      "text": "APPBARDATA:IApplicationActivationManagerg#"
+    },
+    {
+      "offset": 11618539,
+      "text": "\"MethodBaseInvoker(ExecutionEnvironment"
+    },
+    {
+      "offset": 11623479,
+      "text": "CoreWebView2.CoreWebView2Environment<CoreWebView2EnvironmentOptionsNCoreWebView2NewWindowRequestedEventArgs(CoreWebView2SettingsNCoreWebView2WebMessageReceivedEventArgsH06A8F4E7-1146-55AF-820D-EBD5564"
+    },
+    {
+      "offset": 11625556,
+      "text": ",DesktopAcrylicBackdrop"
+    },
+    {
+      "offset": 11625623,
+      "text": ".IDesktopAcrylicBackdropg#"
+    },
+    {
+      "offset": 11669787,
+      "text": "dwReserved"
+    },
+    {
+      "offset": 11670871,
+      "text": "+HC0EEAB6C-C897-5AC6-A1C9-63ABD5055B9B0DesktopAcrylicController"
+    },
+    {
+      "offset": 11670964,
+      "text": "2IDesktopAcrylicControllerg#"
+    },
+    {
+      "offset": 11691520,
+      "text": "0ICoreWebView2Environmentg#"
+    },
+    {
+      "offset": 11691595,
+      "text": ">ICoreWebView2EnvironmentOptionsg#"
+    },
+    {
+      "offset": 11736863,
+      "text": "LMenuFlyoutSeparatorRcwFactoryAttribute"
+    },
+    {
+      "offset": 11744783,
+      "text": "RDesktopAcrylicBackdropRcwFactoryAttribute"
+    },
+    {
+      "offset": 11764215,
+      "text": "VDesktopAcrylicControllerRcwFactoryAttribute"
+    },
+    {
+      "offset": 11770146,
+      "text": "The use of GetType preserves implementation of ICustomTypeDescriptor members with RequiresUnreferencedCode, but the GetType callsites either occur in RequiresUnreferencedCode scopes, or have individua"
+    },
+    {
+      "offset": 11770892,
+      "text": "TCoreWebView2EnvironmentRcwFactoryAttribute"
+    },
+    {
+      "offset": 11771105,
+      "text": "bCoreWebView2EnvironmentOptionsRcwFactoryAttribute"
+    },
+    {
+      "offset": 11815823,
+      "text": "SHAppBarMessage"
+    },
+    {
+      "offset": 11818055,
+      "text": "$GetWindowPlacement"
+    },
+    {
+      "offset": 11820999,
+      "text": "258_0\\<GetGUIThreadInfo>g__LocalExternFunction|262_0`<GetWindowPlacement>g__LocalExternFunction|264_0\\<SetWindowLongPtr>g__LocalExternFunction|265_0b<UpdateLayeredWindow>g__LocalExternFunction|268_0"
+    },
+    {
+      "offset": 11822147,
+      "text": "SeparatorFill"
+    },
+    {
+      "offset": 11823084,
+      "text": ".<ShowIndicator>b__140_0\"get_ReserveWanted"
+    },
+    {
+      "offset": 11823127,
+      "text": "UpdateAutoHide"
+    },
+    {
+      "offset": 11823142,
+      "text": "RevealDock"
+    },
+    {
+      "offset": 11823153,
+      "text": "get_DockBusy"
+    },
+    {
+      "offset": 11823166,
+      "text": "AutoHideTick\"UpdateEdgeBarrier"
+    },
+    {
+      "offset": 11823263,
+      "text": "get_DockRect"
+    },
+    {
+      "offset": 11823424,
+      "text": "RDoca.Settings.ISettingsHost.SetHarborBoatPDoca.Settings.ISettingsHost.SetHarborSkyRDoca.Settings.ISettingsHost.SetHarborDockTDoca.Settings.ISettingsHost.SetHarborAtEndJDoca.Settings.ISettingsHost.Set"
+    },
+    {
+      "offset": 11823939,
+      "text": ",ShowTopBarEnvironments$ShowQuickTimerMenu"
+    },
+    {
+      "offset": 11824250,
+      "text": "get_EmailLocked$get_TaskbarModeNow"
+    },
+    {
+      "offset": 11824820,
+      "text": "OnWindowMoved UpdateOtherDocks@"
+    },
+    {
+      "offset": 11824936,
+      "text": "\"RefreshOtherDocks4UpdateOtherDocksVisibility@"
+    },
+    {
+      "offset": 11824997,
+      "text": "&KeepOtherDocksOnTop"
+    },
+    {
+      "offset": 11825018,
+      "text": "RaiseOtherDocks"
+    },
+    {
+      "offset": 11826043,
+      "text": "LDoca.Settings.ISettingsHost.SetOwnLook^Doca.Settings.ISettingsHost.SetEnvironmentStyle@"
+    },
+    {
+      "offset": 11826297,
+      "text": "PDoca.Settings.ISettingsHost.SetShowTrashbDoca.Settings.ISettingsHost.SetShowSettingsButtonTDoca.Settings.ISettingsHost.SetCornerStyle ApplyTaskbarModeTDoca.Settings.ISettingsHost.SetAllMonitors\"Apply"
+    },
+    {
+      "offset": 11826497,
+      "text": "ReserveSpaceNDoca.Settings.ISettingsHost.SetPosition@"
+    },
+    {
+      "offset": 11826586,
+      "text": "NDoca.Settings.ISettingsHost.SetAutoHide"
+    },
+    {
+      "offset": 11826918,
+      "text": "NDoca.Settings.ISettingsHost.SetDropZonedDoca.Settings.ISettingsHost.SetDropZoneNearPointerTDoca.Settings.ISettingsHost.AddEnvironmentZDoca.Settings.ISettingsHost.RenameEnvironment^Doca.Settings.ISett"
+    },
+    {
+      "offset": 11827118,
+      "text": "ingsHost.SetEnvironmentColorZDoca.Settings.ISettingsHost.DeleteEnvironment@"
+    },
+    {
+      "offset": 11827204,
+      "text": "dDoca.Settings.ISettingsHost.SetEnvironmentShortcut@"
+    },
+    {
+      "offset": 11827334,
+      "text": "pDoca.Settings.ISettingsHost.SetIndicatorEnvironmentColor\\Doca.Settings.ISettingsHost.SetEnvironmentDots^Doca.Settings.ISettingsHost.SetHideOtherWindowsJDoca.Settings.ISettingsHost.AddToDockFDoca.Sett"
+    },
+    {
+      "offset": 11827576,
+      "text": "JDoca.Settings.ISettingsHost.AddSpacerLDoca.Settings.IWidgetHost.DeleteWidgetLDoca.Settings.ISettingsHost.MoveInDock@"
+    },
+    {
+      "offset": 11827712,
+      "text": "TDoca.Settings.ISettingsHost.RemoveFromDock@"
+    },
+    {
+      "offset": 11828311,
+      "text": "DockTrayRect@"
+    },
+    {
+      "offset": 11828606,
+      "text": "RaiseDock"
+    },
+    {
+      "offset": 11828897,
+      "text": "$OnAttentionStarted0get_EnvironmentDotsCount*UpdateEnvironmentDots"
+    },
+    {
+      "offset": 11828964,
+      "text": "PickEnvironment"
+    },
+    {
+      "offset": 11829048,
+      "text": "*RefreshForEnvironment"
+    },
+    {
+      "offset": 11829841,
+      "text": "SaveWindows\"SwitchEnvironment@"
+    },
+    {
+      "offset": 11830024,
+      "text": "&FillEnvironmentMenu(AddMoveToEnvironment@"
+    },
+    {
+      "offset": 11830643,
+      "text": "OnOpenWidgets OnTaskbarCreated(OnAppBarNotification@"
+    },
+    {
+      "offset": 11830728,
+      "text": "SyncAppBar*WatchSystemVisibility"
+    },
+    {
+      "offset": 11831318,
+      "text": "LeaveDock"
+    },
+    {
+      "offset": 11831440,
+      "text": "get_DragPanel.OnOtherDockPointerMoved@"
+    },
+    {
+      "offset": 11831833,
+      "text": ".<UpdateAutoHide>b__14_0@"
+    },
+    {
+      "offset": 11832008,
+      "text": "><ShowTopBarEnvironments>b__87_0@"
+    },
+    {
+      "offset": 11832252,
+      "text": "44_06<RefreshOtherDocks>b__164_0@"
+    },
+    {
+      "offset": 11833680,
+      "text": "8<OnAttentionStarted>b__460_0><UpdateEnvironmentDots>b__465_2@"
+    },
+    {
+      "offset": 11833907,
+      "text": ":<FillEnvironmentMenu>b__541_0:<FillEnvironmentMenu>b__541_1:<FillEnvironmentMenu>b__541_22<UpdateTrayViews>b__548_02<RefreshTrayMenu>b__553_0@"
+    },
+    {
+      "offset": 11834353,
+      "text": "64_04<StartSystemTimer>b__564_12<CountScreenTime>b__569_14<OnTaskbarCreated>b__590_0><WatchSystemVisibility>b__609_0><WatchSystemVisibility>b__609_1><WatchSystemVisibility>b__609_2@"
+    },
+    {
+      "offset": 11834877,
+      "text": "EnvironmentAt@"
+    },
+    {
+      "offset": 11835010,
+      "text": "FollowDock"
+    },
+    {
+      "offset": 11838605,
+      "text": ",add_EnvironmentClicked add_TimerClicked"
+    },
+    {
+      "offset": 11839670,
+      "text": "@Activate_0_XamlControlsResources@Activate_4_SystemBackdropElement0Activate_9_GlassBackdrop,Activate_10_DockWindow0Activate_12_TreeViewNodeRStaticInitializer_0_XamlControlsResourcesRStaticInitializer_"
+    },
+    {
+      "offset": 11839870,
+      "text": "4_SystemBackdropElement@StaticInitializer_7_CornerRadius:StaticInitializer_8_ValueTypeBStaticInitializer_9_GlassBackdrop>StaticInitializer_10_DockWindowBStaticInitializer_12_TreeViewNode4StaticInitial"
+    },
+    {
+      "offset": 11847996,
+      "text": ".get_StarterEnvironments"
+    },
+    {
+      "offset": 11848029,
+      "text": "LiveDock@"
+    },
+    {
+      "offset": 11848183,
+      "text": "*EnvironmentsBuildStep"
+    },
+    {
+      "offset": 11848206,
+      "text": "FindEnvironment@"
+    },
+    {
+      "offset": 11848234,
+      "text": "EnvironmentsArt@"
+    },
+    {
+      "offset": 11848375,
+      "text": "TaskbarStep"
+    },
+    {
+      "offset": 11848945,
+      "text": "EnvironmentBar@"
+    },
+    {
+      "offset": 11849674,
+      "text": "CustomizeLook(NewEnvironmentFlyout@"
+    },
+    {
+      "offset": 11849716,
+      "text": "0EnvironmentShortcutsCard ShortcutRecorder@"
+    },
+    {
+      "offset": 11849795,
+      "text": "TaskbarPage"
+    },
+    {
+      "offset": 11850071,
+      "text": "AboutSection&OpenEnvironmentPage"
+    },
+    {
+      "offset": 11850118,
+      "text": "EnvironmentPage@"
+    },
+    {
+      "offset": 11850273,
+      "text": "PickFolderAsync:<EnvironmentBar>g__Round|17_0"
+    },
+    {
+      "offset": 11850807,
+      "text": "(<TaskbarPage>b__92_0(<TaskbarPage>b__92_1(<TaskbarPage>b__92_2(<TaskbarPage>b__92_3&<ScreenPage>b__93_2&<ScreenPage>b__93_3&<ScreenPage>b__93_4&<ScreenPage>b__93_5&<ScreenPage>b__93_6&<IslandPage>b__"
+    },
+    {
+      "offset": 11851921,
+      "text": "MiniDock"
+    },
+    {
+      "offset": 11852172,
+      "text": "DockWidgets"
+    },
+    {
+      "offset": 11852566,
+      "text": "<.ctor>b__17_4(<DockWidgets>b__35_1@"
+    },
+    {
+      "offset": 11854569,
+      "text": "Reserve@"
+    },
+    {
+      "offset": 11854642,
+      "text": "Taskbars"
+    },
+    {
+      "offset": 11854667,
+      "text": "ReserveTop@"
+    },
+    {
+      "offset": 11854694,
+      "text": "ReserveSettled@"
+    },
+    {
+      "offset": 11854967,
+      "text": "ByEnvironment@"
+    },
+    {
+      "offset": 11858729,
+      "text": "AppBarMessage"
+    },
+    {
+      "offset": 11859431,
+      "text": "HideIfTaskbar"
+    },
+    {
+      "offset": 11859556,
+      "text": "GetAutoHide"
+    },
+    {
+      "offset": 11859568,
+      "text": "SetAutoHide"
+    },
+    {
+      "offset": 11860314,
+      "text": "4<UpdateOtherDocks>b__159_0@"
+    },
+    {
+      "offset": 11860566,
+      "text": "2<WriteTestReport>b__339_02<WriteTestReport>b__339_12<WriteTestReport>b__339_22<WriteTestReport>b__339_3,<DockTrayRect>b__354_10<RevealTrayIcon>b__357_1"
+    },
+    {
+      "offset": 11860963,
+      "text": "8<OnAttentionStarted>b__460_1><UpdateEnvironmentDots>b__465_0><UpdateEnvironmentDots>b__465_10<BuildRowLayout>b__470_00<BuildRowLayout>b__470_1*<AddJumpList>b__483_00<BuildItemMenu>b__484_11@"
+    },
+    {
+      "offset": 11861441,
+      "text": "derMenu>b__492_96<CreateFolderMenu>b__492_106<CreateFolderMenu>b__492_116<CreateFolderMenu>b__492_12.<get_TrashView>b__498_06<SwitchEnvironment>b__523_1@"
+    },
+    {
+      "offset": 11862252,
+      "text": "wTrialWindow>b__1*<ShowTrialWindow>b__2*<ShowTrialWindow>b__3,<UpdateOtherDocks>b__1,<UpdateOtherDocks>b__2@"
+    },
+    {
+      "offset": 11862371,
+      "text": ",<UpdateOtherDocks>b__6,<UpdateOtherDocks>b__3,<UpdateOtherDocks>b__4,<UpdateOtherDocks>b__8@"
+    },
+    {
+      "offset": 11862475,
+      "text": ",<UpdateOtherDocks>b__5@"
+    },
+    {
+      "offset": 11862510,
+      "text": ",<UpdateOtherDocks>b__7@"
+    },
+    {
+      "offset": 11862546,
+      "text": "<WindowsOn>b__0.<RefreshOtherDocks>b__1\"<CheckNudges>b__0\"<CheckNudges>b__1,<OnStripMouseDown>b__0&<PickFromStrip>b__0&<BuildOverview>b__2@"
+    },
+    {
+      "offset": 11863247,
+      "text": "<MoveTo>b__1`<Doca.Settings.ISettingsHost.RemoveFromDock>b__0@"
+    },
+    {
+      "offset": 11863455,
+      "text": "<Slide>b__9.<OnTrayIconMessage>b__0$<DockTrayRect>b__0(<RevealTrayIcon>b__0(<RevealTrayIcon>b__2"
+    },
+    {
+      "offset": 11864741,
+      "text": "<AddPins>b__0$<OnDragSignal>b__0.<SwitchEnvironment>b__0@"
+    },
+    {
+      "offset": 11864809,
+      "text": ",<StartFocusFollow>b__12<FillEnvironmentMenu>b__34<AddMoveToEnvironment>b__04<AddMoveToEnvironment>b__1$<CornerHeader>b__00<CornerHeader>g__Quick|1@"
+    },
+    {
+      "offset": 11867571,
+      "text": "<.ctor>b__29_7,<ShowEnvironments>b__0&<ShowTimerMenu>b__1&<ShowTimerMenu>b__2&<ShowTimerMenu>b__0$<CheckMenu>b__66_02<OnMouseDownAnywhere>b__0"
+    },
+    {
+      "offset": 11872568,
+      "text": "<AppToggle>b__0 <WidgetFrom>b__1$<WidgetToggle>b__06<EnvironmentsBuildStep>b__0*<FindEnvironment>b__0"
+    },
+    {
+      "offset": 11872700,
+      "text": "<SizeStep>b__2\"<TaskbarStep>b__0\"<TaskbarStep>b__1"
+    },
+    {
+      "offset": 11873226,
+      "text": "4<StoreUpdatesCard>b__115_1*<BackupsCard>b__116_0(<ImportCard>b__118_2(<ImportCard>b__118_4(<ImportCard>b__118_32<EnvironmentPage>b__125_0&<SearchBox>b__128_4@"
+    },
+    {
+      "offset": 11873925,
+      "text": "0,<StoreUpdatesCard>b__2,<StoreUpdatesCard>b__3\"<BackupsCard>b__1 <ExportCard>b__0 <ImportCard>b__0 <ImportCard>b__1&<OwnLookNotice>b__08<EnvironmentPage>g__Rename|1*<EnvironmentPage>b__2*<Environment"
+    },
+    {
+      "offset": 11874125,
+      "text": "Page>b__3*<EnvironmentPage>b__4,<EnvironmentPage>b__11*<EnvironmentPage>b__5*<EnvironmentPage>b__6,<EnvironmentPage>b__15*<EnvironmentPage>b__7*<EnvironmentPage>b__8*<EnvironmentPage>b__9,<Environment"
+    },
+    {
+      "offset": 11874325,
+      "text": "Page>b__10,<EnvironmentPage>b__12,<EnvironmentPage>b__13,<EnvironmentPage>b__14"
+    },
+    {
+      "offset": 11874641,
+      "text": "<BenchPage>b__6(<EnvironmentBar>b__6(<EnvironmentBar>b__7(<EnvironmentBar>b__1(<EnvironmentBar>b__2(<EnvironmentBar>b__3(<EnvironmentBar>b__4(<EnvironmentBar>b__5(<EnvironmentBar>b__8 <BenchArrow>b__0"
+    },
+    {
+      "offset": 11876505,
+      "text": "mizeLook>b__23(<CustomizeLook>b__24(<CustomizeLook>b__25(<CustomizeLook>b__26(<CustomizeLook>b__27B<NewEnvironmentFlyout>g__Create|04<NewEnvironmentFlyout>b__14<NewEnvironmentFlyout>b__24<NewEnvironme"
+    },
+    {
+      "offset": 11876876,
+      "text": "&<DesktopPicker>b__2&<DesktopPicker>b__3\"<TaskbarPage>b__4\"<TaskbarPage>b__5\"<TaskbarPage>b__6\"<TaskbarPage>b__7 <ScreenPage>b__7 <ScreenPage>b__8 <ScreenPage>b__9\"<ScreenPage>b__10\"<ScreenPage>b__11,"
+    },
+    {
+      "offset": 11877866,
+      "text": "(<DockWidgets>b__35_0\"<FillGrid>b__38_3,<FillInspector>b__53_3@"
+    },
+    {
+      "offset": 11879596,
+      "text": "<Sync>b__3&<ByEnvironment>b__0&<ByEnvironment>b__1@"
+    },
+    {
+      "offset": 11879658,
+      "text": "&<ByEnvironment>b__2"
+    },
+    {
+      "offset": 11881731,
+      "text": "DockArea"
+    },
+    {
+      "offset": 11888050,
+      "text": "FitIconSize"
+    },
+    {
+      "offset": 11888431,
+      "text": " get_HasSeparator@"
+    },
+    {
+      "offset": 11889347,
+      "text": "&SetEnvironmentStyle"
+    },
+    {
+      "offset": 11889470,
+      "text": "SetIconSize"
+    },
+    {
+      "offset": 11889987,
+      "text": "Spring@"
+    },
+    {
+      "offset": 11896276,
+      "text": "*Create_DockBackground@"
+    },
+    {
+      "offset": 11896310,
+      "text": "4get_NullableDockBackground@"
+    },
+    {
+      "offset": 11896345,
+      "text": ":Create_NullableDockBackground@"
+    },
+    {
+      "offset": 11896387,
+      "text": ",Create_DockEnvironment@"
+    },
+    {
+      "offset": 11896422,
+      "text": ".DockEnvironmentPropInit>DockEnvironmentSerializeHandler@"
+    },
+    {
+      "offset": 11896494,
+      "text": "8DockEnvironmentCtorParamInit get_DockPosition@"
+    },
+    {
+      "offset": 11896548,
+      "text": "&Create_DockPosition@"
+    },
+    {
+      "offset": 11896580,
+      "text": "0get_NullableDockPosition@"
+    },
+    {
+      "offset": 11896613,
+      "text": "6Create_NullableDockPosition@"
+    },
+    {
+      "offset": 11896654,
+      "text": "get_DockState@"
+    },
+    {
+      "offset": 11896675,
+      "text": " Create_DockState@"
+    },
+    {
+      "offset": 11896704,
+      "text": "\"DockStatePropInit2DockStateSerializeHandler@"
+    },
+    {
+      "offset": 11896764,
+      "text": " Create_DockStyle@"
+    },
+    {
+      "offset": 11896793,
+      "text": "*get_NullableDockStyle@"
+    },
+    {
+      "offset": 11896823,
+      "text": "0Create_NullableDockStyle@"
+    },
+    {
+      "offset": 11896860,
+      "text": " Create_DockTheme@"
+    },
+    {
+      "offset": 11896889,
+      "text": "\"DockThemePropInit2DockThemeSerializeHandler@"
+    },
+    {
+      "offset": 11897992,
+      "text": "$Create_TaskbarMode@"
+    },
+    {
+      "offset": 11898513,
+      "text": ":WindowAssignmentCtorParamInitFCreate_DictionaryStringDockPosition@"
+    },
+    {
+      "offset": 11898591,
+      "text": "XDictionaryStringDockPositionSerializeHandler@"
+    },
+    {
+      "offset": 11898864,
+      "text": "4Create_ListDockEnvironment@"
+    },
+    {
+      "offset": 11898903,
+      "text": "FListDockEnvironmentSerializeHandler@"
+    },
+    {
+      "offset": 11900172,
+      "text": "<Create_PresentationEnvironment@"
+    },
+    {
+      "offset": 11900215,
+      "text": ">PresentationEnvironmentPropInitNPresentationEnvironmentSerializeHandler@"
+    },
+    {
+      "offset": 11900564,
+      "text": "DCreate_ListPresentationEnvironment@"
+    },
+    {
+      "offset": 11900611,
+      "text": "VListPresentationEnvironmentSerializeHandler@"
+    },
+    {
+      "offset": 11900745,
+      "text": "ParseTaskbar"
+    },
+    {
+      "offset": 11901534,
+      "text": "\"SeparatorPosition"
+    },
+    {
+      "offset": 11901565,
+      "text": "SeparatorShift"
+    },
+    {
+      "offset": 11902367,
+      "text": "WithDockPins"
+    },
+    {
+      "offset": 11902882,
+      "text": "\"Create_DockReport@"
+    },
+    {
+      "offset": 11902912,
+      "text": "$DockReportPropInit4DockReportSerializeHandler@"
+    },
+    {
+      "offset": 11902974,
+      "text": ".DockReportCtorParamInit Create_PixelRect@"
+    },
+    {
+      "offset": 11903233,
+      "text": "2ScreenReportCtorParamInit*Create_ListDockReport@"
+    },
+    {
+      "offset": 11903293,
+      "text": "<ListDockReportSerializeHandler@"
+    },
+    {
+      "offset": 11905988,
+      "text": "EnvironmentFor"
+    },
+    {
+      "offset": 11906554,
+      "text": "EnvironmentsOf"
+    },
+    {
+      "offset": 11906619,
+      "text": "*RemoveFromEnvironment"
+    },
+    {
+      "offset": 11922985,
+      "text": "<Clean>b__7_1><Create_DockEnvironment>b__35_0@"
+    },
+    {
+      "offset": 11923042,
+      "text": "><Create_DockEnvironment>b__35_2@<DockEnvironmentPropInit>b__36_0@<DockEnvironmentPropInit>b__36_1@<DockEnvironmentPropInit>b__36_2@<DockEnvironmentPropInit>b__36_3@<DockEnvironmentPropInit>b__36_4@<D"
+    },
+    {
+      "offset": 11923242,
+      "text": "ockEnvironmentPropInit>b__36_5@<DockEnvironmentPropInit>b__36_6@"
+    },
+    {
+      "offset": 11923317,
+      "text": "@<DockEnvironmentPropInit>b__36_7@"
+    },
+    {
+      "offset": 11923366,
+      "text": "@<DockEnvironmentPropInit>b__36_8@<DockEnvironmentPropInit>b__36_9B<DockEnvironmentPropInit>b__36_10B<DockEnvironmentPropInit>b__36_11B<DockEnvironmentPropInit>b__36_12B<DockEnvironmentPropInit>b__36_"
+    },
+    {
+      "offset": 11923566,
+      "text": "13B<DockEnvironmentPropInit>b__36_14B<DockEnvironmentPropInit>b__36_15@"
+    },
+    {
+      "offset": 11923648,
+      "text": "B<DockEnvironmentPropInit>b__36_16@"
+    },
+    {
+      "offset": 11923698,
+      "text": "B<DockEnvironmentPropInit>b__36_17B<DockEnvironmentPropInit>b__36_18B<DockEnvironmentPropInit>b__36_19B<DockEnvironmentPropInit>b__36_20B<DockEnvironmentPropInit>b__36_21@"
+    },
+    {
+      "offset": 11923880,
+      "text": "B<DockEnvironmentPropInit>b__36_22@"
+    },
+    {
+      "offset": 11923930,
+      "text": "B<DockEnvironmentPropInit>b__36_23B<DockEnvironmentPropInit>b__36_24@"
+    },
+    {
+      "offset": 11924010,
+      "text": "B<DockEnvironmentPropInit>b__36_25@"
+    },
+    {
+      "offset": 11924060,
+      "text": "B<DockEnvironmentPropInit>b__36_262<Create_DockState>b__50_02<Create_DockState>b__50_24<DockStatePropInit>b__51_04<DockStatePropInit>b__51_14<DockStatePropInit>b__51_24<DockStatePropInit>b__51_34<Dock"
+    },
+    {
+      "offset": 11924260,
+      "text": "StatePropInit>b__51_44<DockStatePropInit>b__51_54<DockStatePropInit>b__51_6@"
+    },
+    {
+      "offset": 11924347,
+      "text": "4<DockStatePropInit>b__51_7@"
+    },
+    {
+      "offset": 11924390,
+      "text": "4<DockStatePropInit>b__51_84<DockStatePropInit>b__51_96<DockStatePropInit>b__51_106<DockStatePropInit>b__51_116<DockStatePropInit>b__51_126<DockStatePropInit>b__51_136<DockStatePropInit>b__51_146<Dock"
+    },
+    {
+      "offset": 11924590,
+      "text": "StatePropInit>b__51_156<DockStatePropInit>b__51_166<DockStatePropInit>b__51_176<DockStatePropInit>b__51_18@"
+    },
+    {
+      "offset": 11924708,
+      "text": "6<DockStatePropInit>b__51_19@"
+    },
+    {
+      "offset": 11924752,
+      "text": "6<DockStatePropInit>b__51_206<DockStatePropInit>b__51_21@"
+    },
+    {
+      "offset": 11924820,
+      "text": "6<DockStatePropInit>b__51_22@"
+    },
+    {
+      "offset": 11924864,
+      "text": "6<DockStatePropInit>b__51_236<DockStatePropInit>b__51_246<DockStatePropInit>b__51_256<DockStatePropInit>b__51_266<DockStatePropInit>b__51_276<DockStatePropInit>b__51_286<DockStatePropInit>b__51_296<Do"
+    },
+    {
+      "offset": 11925064,
+      "text": "ckStatePropInit>b__51_306<DockStatePropInit>b__51_316<DockStatePropInit>b__51_326<DockStatePropInit>b__51_336<DockStatePropInit>b__51_346<DockStatePropInit>b__51_356<DockStatePropInit>b__51_36@"
+    },
+    {
+      "offset": 11925268,
+      "text": "6<DockStatePropInit>b__51_37@"
+    },
+    {
+      "offset": 11925312,
+      "text": "6<DockStatePropInit>b__51_386<DockStatePropInit>b__51_39@"
+    },
+    {
+      "offset": 11925380,
+      "text": "6<DockStatePropInit>b__51_40@"
+    },
+    {
+      "offset": 11925424,
+      "text": "6<DockStatePropInit>b__51_416<DockStatePropInit>b__51_42@"
+    },
+    {
+      "offset": 11925492,
+      "text": "6<DockStatePropInit>b__51_43@"
+    },
+    {
+      "offset": 11925536,
+      "text": "6<DockStatePropInit>b__51_446<DockStatePropInit>b__51_456<DockStatePropInit>b__51_466<DockStatePropInit>b__51_476<DockStatePropInit>b__51_48@"
+    },
+    {
+      "offset": 11925688,
+      "text": "6<DockStatePropInit>b__51_49@"
+    },
+    {
+      "offset": 11925732,
+      "text": "6<DockStatePropInit>b__51_506<DockStatePropInit>b__51_516<DockStatePropInit>b__51_526<DockStatePropInit>b__51_536<DockStatePropInit>b__51_546<DockStatePropInit>b__51_556<DockStatePropInit>b__51_566<Do"
+    },
+    {
+      "offset": 11925968,
+      "text": "6<DockStatePropInit>b__51_58@"
+    },
+    {
+      "offset": 11926012,
+      "text": "6<DockStatePropInit>b__51_596<DockStatePropInit>b__51_606<DockStatePropInit>b__51_616<DockStatePropInit>b__51_626<DockStatePropInit>b__51_63@"
+    },
+    {
+      "offset": 11926164,
+      "text": "6<DockStatePropInit>b__51_64@"
+    },
+    {
+      "offset": 11926208,
+      "text": "6<DockStatePropInit>b__51_656<DockStatePropInit>b__51_66@"
+    },
+    {
+      "offset": 11926276,
+      "text": "6<DockStatePropInit>b__51_67@"
+    },
+    {
+      "offset": 11926320,
+      "text": "6<DockStatePropInit>b__51_686<DockStatePropInit>b__51_696<DockStatePropInit>b__51_706<DockStatePropInit>b__51_716<DockStatePropInit>b__51_726<DockStatePropInit>b__51_736<DockStatePropInit>b__51_746<Do"
+    },
+    {
+      "offset": 11926520,
+      "text": "ckStatePropInit>b__51_756<DockStatePropInit>b__51_766<DockStatePropInit>b__51_776<DockStatePropInit>b__51_786<DockStatePropInit>b__51_796<DockStatePropInit>b__51_806<DockStatePropInit>b__51_816<DockSt"
+    },
+    {
+      "offset": 11926720,
+      "text": "atePropInit>b__51_826<DockStatePropInit>b__51_836<DockStatePropInit>b__51_846<DockStatePropInit>b__51_856<DockStatePropInit>b__51_866<DockStatePropInit>b__51_87@"
+    },
+    {
+      "offset": 11926892,
+      "text": "6<DockStatePropInit>b__51_88@"
+    },
+    {
+      "offset": 11926936,
+      "text": "6<DockStatePropInit>b__51_896<DockStatePropInit>b__51_906<DockStatePropInit>b__51_916<DockStatePropInit>b__51_926<DockStatePropInit>b__51_93@"
+    },
+    {
+      "offset": 11927088,
+      "text": "6<DockStatePropInit>b__51_94@"
+    },
+    {
+      "offset": 11927132,
+      "text": "6<DockStatePropInit>b__51_956<DockStatePropInit>b__51_966<DockStatePropInit>b__51_976<DockStatePropInit>b__51_986<DockStatePropInit>b__51_998<DockStatePropInit>b__51_1008<DockStatePropInit>b__51_1018<"
+    },
+    {
+      "offset": 11927332,
+      "text": "DockStatePropInit>b__51_1028<DockStatePropInit>b__51_1038<DockStatePropInit>b__51_1048<DockStatePropInit>b__51_1058<DockStatePropInit>b__51_1068<DockStatePropInit>b__51_1078<DockStatePropInit>b__51_10"
+    },
+    {
+      "offset": 11927532,
+      "text": "88<DockStatePropInit>b__51_1098<DockStatePropInit>b__51_1108<DockStatePropInit>b__51_111@"
+    },
+    {
+      "offset": 11927632,
+      "text": "8<DockStatePropInit>b__51_112@"
+    },
+    {
+      "offset": 11927677,
+      "text": "8<DockStatePropInit>b__51_1138<DockStatePropInit>b__51_114@"
+    },
+    {
+      "offset": 11927747,
+      "text": "8<DockStatePropInit>b__51_115@"
+    },
+    {
+      "offset": 11927792,
+      "text": "8<DockStatePropInit>b__51_1168<DockStatePropInit>b__51_1178<DockStatePropInit>b__51_1188<DockStatePropInit>b__51_1198<DockStatePropInit>b__51_1208<DockStatePropInit>b__51_1218<DockStatePropInit>b__51_"
+    },
+    {
+      "offset": 11927992,
+      "text": "1228<DockStatePropInit>b__51_1238<DockStatePropInit>b__51_1248<DockStatePropInit>b__51_1258<DockStatePropInit>b__51_1268<DockStatePropInit>b__51_1278<DockStatePropInit>b__51_1288<DockStatePropInit>b__"
+    },
+    {
+      "offset": 11928192,
+      "text": "51_1298<DockStatePropInit>b__51_1308<DockStatePropInit>b__51_1318<DockStatePropInit>b__51_1328<DockStatePropInit>b__51_1338<DockStatePropInit>b__51_1348<DockStatePropInit>b__51_1358<DockStatePropInit>"
+    },
+    {
+      "offset": 11928392,
+      "text": "b__51_1368<DockStatePropInit>b__51_1378<DockStatePropInit>b__51_138@"
+    },
+    {
+      "offset": 11928471,
+      "text": "8<DockStatePropInit>b__51_139@"
+    },
+    {
+      "offset": 11928516,
+      "text": "8<DockStatePropInit>b__51_1408<DockStatePropInit>b__51_1418<DockStatePropInit>b__51_1428<DockStatePropInit>b__51_1438<DockStatePropInit>b__51_144@"
+    },
+    {
+      "offset": 11928673,
+      "text": "8<DockStatePropInit>b__51_145@"
+    },
+    {
+      "offset": 11928718,
+      "text": "8<DockStatePropInit>b__51_1468<DockStatePropInit>b__51_1478<DockStatePropInit>b__51_1488<DockStatePropInit>b__51_1498<DockStatePropInit>b__51_1502<Create_DockTheme>b__64_02<Create_DockTheme>b__64_24<D"
+    },
+    {
+      "offset": 11928918,
+      "text": "ockThemePropInit>b__65_04<DockThemePropInit>b__65_14<DockThemePropInit>b__65_24<DockThemePropInit>b__65_3@"
+    },
+    {
+      "offset": 11929035,
+      "text": "4<DockThemePropInit>b__65_4@"
+    },
+    {
+      "offset": 11929078,
+      "text": "4<DockThemePropInit>b__65_54<DockThemePropInit>b__65_6@"
+    },
+    {
+      "offset": 11929144,
+      "text": "4<DockThemePropInit>b__65_7@"
+    },
+    {
+      "offset": 11929187,
+      "text": "4<DockThemePropInit>b__65_84<DockThemePropInit>b__65_96<DockThemePropInit>b__65_106<DockThemePropInit>b__65_116<DockThemePropInit>b__65_126<DockThemePropInit>b__65_136<DockThemePropInit>b__65_146<Dock"
+    },
+    {
+      "offset": 11929421,
+      "text": "6<DockThemePropInit>b__65_16@"
+    },
+    {
+      "offset": 11929465,
+      "text": "6<DockThemePropInit>b__65_176<DockThemePropInit>b__65_186<DockThemePropInit>b__65_196<DockThemePropInit>b__65_206<DockThemePropInit>b__65_216<DockThemePropInit>b__65_226<DockThemePropInit>b__65_236<Do"
+    },
+    {
+      "offset": 11929701,
+      "text": "6<DockThemePropInit>b__65_25@"
+    },
+    {
+      "offset": 11929745,
+      "text": "6<DockThemePropInit>b__65_266<DockThemePropInit>b__65_27@"
+    },
+    {
+      "offset": 11929813,
+      "text": "6<DockThemePropInit>b__65_28@"
+    },
+    {
+      "offset": 11929857,
+      "text": "6<DockThemePropInit>b__65_296<DockThemePropInit>b__65_30@"
+    },
+    {
+      "offset": 11929925,
+      "text": "6<DockThemePropInit>b__65_31@"
+    },
+    {
+      "offset": 11929969,
+      "text": "6<DockThemePropInit>b__65_326<DockThemePropInit>b__65_336<DockThemePropInit>b__65_346<DockThemePropInit>b__65_356<DockThemePropInit>b__65_366<DockThemePropInit>b__65_376<DockThemePropInit>b__65_386<Do"
+    },
+    {
+      "offset": 11930169,
+      "text": "ckThemePropInit>b__65_396<DockThemePropInit>b__65_406<DockThemePropInit>b__65_416<DockThemePropInit>b__65_426<DockThemePropInit>b__65_436<DockThemePropInit>b__65_446<DockThemePropInit>b__65_456<DockTh"
+    },
+    {
+      "offset": 11930369,
+      "text": "emePropInit>b__65_466<DockThemePropInit>b__65_476<DockThemePropInit>b__65_486<DockThemePropInit>b__65_496<DockThemePropInit>b__65_506<DockThemePropInit>b__65_51@"
+    },
+    {
+      "offset": 11930541,
+      "text": "6<DockThemePropInit>b__65_52@"
+    },
+    {
+      "offset": 11930585,
+      "text": "6<DockThemePropInit>b__65_536<DockThemePropInit>b__65_546<DockThemePropInit>b__65_556<DockThemePropInit>b__65_566<DockThemePropInit>b__65_576<DockThemePropInit>b__65_58:<Create_FolderOptions>b__70_0:<"
+    },
+    {
+      "offset": 11936492,
+      "text": "t>b__170_10F<WindowAssignmentPropInit>b__170_11Z<Create_DictionaryStringDockPosition>b__176_0`<Create_DictionaryStringNudgeTopicState>b__181_0N<Create_DictionaryStringString>b__186_0H<Create_ListDockE"
+    },
+    {
+      "offset": 11936892,
+      "text": "ate>b__18<Create_NudgeTopicState>b__1,<Create_PinnedApp>b__16<Create_SearchPosition>b__16<Create_WidgetInstance>b__1.<Create_WidgetSlot>b__1:<Create_WindowAssignment>b__18<Create_DockEnvironment>b__1,"
+    },
+    {
+      "offset": 11937092,
+      "text": "<Create_DockState>b__1,<Create_DockTheme>b__14<Create_FolderOptions>b__12<Create_IslandExtras>b__1"
+    },
+    {
+      "offset": 11937255,
+      "text": "<Parse>b__14_0N<Create_PresentationEnvironment>b__19_0@"
+    },
+    {
+      "offset": 11937317,
+      "text": "N<Create_PresentationEnvironment>b__19_2P<PresentationEnvironmentPropInit>b__20_0P<PresentationEnvironmentPropInit>b__20_1P<PresentationEnvironmentPropInit>b__20_2P<PresentationEnvironmentPropInit>b__"
+    },
+    {
+      "offset": 11937517,
+      "text": "20_3P<PresentationEnvironmentPropInit>b__20_4P<PresentationEnvironmentPropInit>b__20_5P<PresentationEnvironmentPropInit>b__20_6P<PresentationEnvironmentPropInit>b__20_7P<PresentationEnvironmentPropIni"
+    },
+    {
+      "offset": 11939526,
+      "text": "onment>b__37_04<Create_ListString>b__42_0H<Create_PresentationEnvironment>b__1@<Create_PresentationMessage>b__1:<Create_PresentationRect>b__1"
+    },
+    {
+      "offset": 11940383,
+      "text": "(<WithDockPins>b__8_0(<WithDockPins>b__8_1(<WithDockPins>b__8_2"
+    },
+    {
+      "offset": 11940967,
+      "text": "<Order>b__0_22<Create_DockReport>b__7_0@"
+    },
+    {
+      "offset": 11941018,
+      "text": "2<Create_DockReport>b__7_24<DockReportPropInit>b__8_04<DockReportPropInit>b__8_14<DockReportPropInit>b__8_24<DockReportPropInit>b__8_34<DockReportPropInit>b__8_44<DockReportPropInit>b__8_54<DockReport"
+    },
+    {
+      "offset": 11941245,
+      "text": "4<DockReportPropInit>b__8_7@"
+    },
+    {
+      "offset": 11941288,
+      "text": "4<DockReportPropInit>b__8_84<DockReportPropInit>b__8_96<DockReportPropInit>b__8_106<DockReportPropInit>b__8_116<DockReportPropInit>b__8_126<DockReportPropInit>b__8_136<DockReportPropInit>b__8_146<Dock"
+    },
+    {
+      "offset": 11941488,
+      "text": "ReportPropInit>b__8_156<DockReportPropInit>b__8_166<DockReportPropInit>b__8_176<DockReportPropInit>b__8_186<DockReportPropInit>b__8_196<DockReportPropInit>b__8_206<DockReportPropInit>b__8_216<DockRepo"
+    },
+    {
+      "offset": 11941688,
+      "text": "rtPropInit>b__8_226<DockReportPropInit>b__8_236<DockReportPropInit>b__8_246<DockReportPropInit>b__8_256<DockReportPropInit>b__8_266<DockReportPropInit>b__8_276<DockReportPropInit>b__8_286<DockReportPr"
+    },
+    {
+      "offset": 11942630,
+      "text": ":<ScreenReportPropInit>b__22_8<<Create_ListDockReport>b__28_04<Create_ListString>b__33_0,<Create_PixelRect>b__12<Create_ScreenReport>b__1.<Create_DockReport>b__1"
+    },
+    {
+      "offset": 11945652,
+      "text": "<Facts>b__18(<EnvironmentFor>b__0$<get_Label>b__24_0"
+    },
+    {
+      "offset": 11945798,
+      "text": ",<EnvironmentsOf>b__8_1"
+    },
+    {
+      "offset": 11946068,
+      "text": "<CountFrom>b__0(<EnvironmentsOf>b__0(<EnvironmentsOf>b__2 <SetShownIn>b__0"
+    },
+    {
+      "offset": 11949666,
+      "text": "get_WorkArea"
+    },
+    {
+      "offset": 11954641,
+      "text": "get__objRef_global__Microsoft_UI_Composition_SystemBackdrops_DesktopAcrylicController"
+    },
+    {
+      "offset": 11956682,
+      "text": "get__objRef_global__Microsoft_Web_WebView2_Core_ICoreWebView2EnvironmentStatics"
+    },
+    {
+      "offset": 11956790,
+      "text": "get__objRef_global__Microsoft_Web_WebView2_Core_CoreWebView2EnvironmentOptions"
+    },
+    {
+      "offset": 11983056,
+      "text": "get__objRef_global__Microsoft_UI_Xaml_Media_IDesktopAcrylicBackdropFactory"
+    },
+    {
+      "offset": 11993556,
+      "text": "get__objRef_global__Microsoft_UI_Xaml_Controls_IMenuFlyoutSeparatorFactory"
+    },
+    {
+      "offset": 12055981,
+      "text": "8GetEnvironmentVariablesBlock"
+    },
+    {
+      "offset": 12067691,
+      "text": "DParseInt32EnvironmentVariableValueFParseDoubleEnvironmentVariableValue"
+    },
+    {
+      "offset": 12074339,
+      "text": " TryReserveStream"
+    },
+    {
+      "offset": 12081666,
+      "text": "TrySetTimeSpanDAppendValueWithSeparatorIfRequired"
+    },
+    {
+      "offset": 12095356,
+      "text": "0AcquireServerCredentials@"
+    },
+    {
+      "offset": 12109707,
+      "text": "FailFast,GetEnvironmentVariable4ExpandEnvironmentVariables"
+    },
+    {
+      "offset": 12109924,
+      "text": "0get_CurrentDirectoryCore<ExpandEnvironmentVariablesCore"
+    },
+    {
+      "offset": 12109996,
+      "text": "GetOSVersion&get_SystemDirectory4GetEnvironmentVariableCoreLGetEnvironmentVariableCore_NoArrayPool4SetEnvironmentVariableCore.GetEnvironmentVariables"
+    },
+    {
+      "offset": 12113778,
+      "text": "(MakeSeparatorListAny"
+    },
+    {
+      "offset": 12113819,
+      "text": "6MakeSeparatorListVectorized"
+    },
+    {
+      "offset": 12113875,
+      "text": "\"MakeSeparatorList"
+    },
+    {
+      "offset": 12137901,
+      "text": "get_NaNSymbol4get_PositiveInfinitySymbol4get_NegativeInfinitySymbol\"get_PercentSymbol$get_PerMilleSymbol,get_CurrencyGroupSizes\"get_ListSeparator get_AMDesignator get_PMDesignator"
+    },
+    {
+      "offset": 12138314,
+      "text": "\"get_TimeSeparator"
+    },
+    {
+      "offset": 12138333,
+      "text": "DateSeparator@"
+    },
+    {
+      "offset": 12138397,
+      "text": "GetSeparator"
+    },
+    {
+      "offset": 12138735,
+      "text": "4ConvertIcuTimeFormatString&IcuLocaleNameToLCID.IcuGetDigitSubstitution&IcuGetListSeparator$IsValidCultureName"
+    },
+    {
+      "offset": 12140536,
+      "text": "GetEraName.get_AbbreviatedEraNames*GetAbbreviatedEraName<get_AbbreviatedEnglishEraNames\"get_DateSeparator.get_FullDateTimePattern&get_LongDatePattern&get_LongTimePattern&get_MonthDayPattern(get_ShortD"
+    },
+    {
+      "offset": 12141394,
+      "text": "DatePatterns(get_DecimalSeparator"
+    },
+    {
+      "offset": 12145651,
+      "text": "\"GetPartitionCount0GetMaxArraysPerPartition<TryGetInt32EnvironmentVariable"
+    },
+    {
+      "offset": 12164450,
+      "text": "8StartsWithDirectorySeparator8TrimEndingDirectorySeparator0EndsInDirectorySeparator"
+    },
+    {
+      "offset": 12164546,
+      "text": "GetRootLength8NormalizeDirectorySeparators$IsEffectivelyEmpty"
+    },
+    {
+      "offset": 12191693,
+      "text": ".FreeEnvironmentStringsW"
+    },
+    {
+      "offset": 12191729,
+      "text": ",SetEnvironmentVariable"
+    },
+    {
+      "offset": 12214383,
+      "text": "System.Collections.Generic.IEnumerator<Internal.Runtime.TypeLoader.TypeLoaderEnvironment.GenericMethodEntry>.get_Current@"
+    },
+    {
+      "offset": 12214512,
+      "text": "System.Collections.Generic.IEnumerable<Internal.Runtime.TypeLoader.TypeLoaderEnvironment.GenericMethodEntry>.GetEnumerator@"
+    },
+    {
+      "offset": 12214643,
+      "text": "System.Collections.Generic.IEnumerator<Internal.Runtime.TypeLoader.TypeLoaderEnvironment.GenericTypeEntry>.get_Current@"
+    },
+    {
+      "offset": 12214770,
+      "text": "System.Collections.Generic.IEnumerable<Internal.Runtime.TypeLoader.TypeLoaderEnvironment.GenericTypeEntry>.GetEnumerator@"
+    },
+    {
+      "offset": 12217301,
+      "text": "DCheckForUnicodeOrEscapedUnreserved"
+    },
+    {
+      "offset": 12225156,
+      "text": "OnNamespaceDecl,OnXmlReservedAttribute.ParseAttributeValueSlow@"
+    },
+    {
+      "offset": 12260257,
+      "text": "nThrowJsonException_MetadataPreservedArrayValuesNotFound"
+    },
+    {
+      "offset": 12263855,
+      "text": "SkipComment*SkipSingleLineComment\"FindLineSeparator:ThrowOnDangerousLineSeparator(SkipMultiLineComment"
+    },
+    {
+      "offset": 12264928,
+      "text": "leLineCommentMultiSegment:FindLineSeparatorMultiSegmentRThrowOnDangerousLineSeparatorMultiSegment@SkipMultiLineCommentMultiSegment"
+    },
+    {
+      "offset": 12282061,
+      "text": "@TryReserveCompletionIfCancelable SignalCompletionDSetCompletionAndInvokeContinuation2<SignalCompletion>b__26_02<SignalCompletion>b__26_1V<SetCompletionAndInvokeContinuation>b__27_0(<OnCompleted>b__28"
+    },
+    {
+      "offset": 12282286,
+      "text": "@CreateInvalidCompletionException.GetNumericListSeparator"
+    },
+    {
+      "offset": 12325478,
+      "text": "$DateSeparatorTChar\"PMDesignatorTChar$TimeSeparatorTChar*DecimalSeparatorTChar"
+    },
+    {
+      "offset": 12333192,
+      "text": "TTryDequeueAndReserveCompletionIfCancelable"
+    },
+    {
+      "offset": 12337570,
+      "text": "WindowPlacement"
+    },
+    {
+      "offset": 12337586,
+      "text": "WindowsTaskbar"
+    },
+    {
+      "offset": 12337887,
+      "text": "AppBarLayout"
+    },
+    {
+      "offset": 12338269,
+      "text": "DockAppearance'"
+    },
+    {
+      "offset": 12338335,
+      "text": "DockMetrics"
+    },
+    {
+      "offset": 12338347,
+      "text": "DockLayout'"
+    },
+    {
+      "offset": 12338366,
+      "text": "DockAnchor"
+    },
+    {
+      "offset": 12338401,
+      "text": "DockStyles"
+    },
+    {
+      "offset": 12338416,
+      "text": "DockZOrder"
+    },
+    {
+      "offset": 12338434,
+      "text": "DockVisibility"
+    },
+    {
+      "offset": 12338513,
+      "text": "EnvironmentDots'"
+    },
+    {
+      "offset": 12339323,
+      "text": "TaskbarPlan"
+    },
+    {
+      "offset": 12340520,
+      "text": "+@IDesktopAcrylicControllerMethodsFISystemBackdropConfigurationMethods"
+    },
+    {
+      "offset": 12341335,
+      "text": "LICoreWebView2EnvironmentOptionsMethodsLICoreWebView2EnvironmentStaticsMethods"
+    },
+    {
+      "offset": 12341810,
+      "text": "Windows_Foundation_IAsyncOperation_1_Microsoft_Web_WebView2_Core_CoreWebView2Environment"
+    },
+    {
+      "offset": 12341903,
+      "text": "Windows_Foundation_AsyncOperationCompletedHandler_1_Microsoft_Web_WebView2_Core_CoreWebView2Environment"
+    },
+    {
+      "offset": 12353687,
+      "text": "6L_IDesktopAcrylicBackdropFactoryMethods"
+    },
+    {
+      "offset": 12354617,
+      "text": "3F_IMenuFlyoutSeparatorFactoryMethods"
+    },
+    {
+      "offset": 12384219,
+      "text": ",UndockedRegFreeWinRTCS"
+    },
+    {
+      "offset": 12386744,
+      "text": "AppBarRepair"
+    },
+    {
+      "offset": 12408580,
+      "text": "WINDOWPLACEMENT"
+    },
+    {
+      "offset": 12421584,
+      "text": "  xml:space   (preserve)     #FIXED 'preserve'"
+    },
+    {
+      "offset": 12421884,
+      "text": "  xml:space   (preserve)     #FIXED 'preserve'"
+    },
+    {
+      "offset": 12423169,
+      "text": "  xml:space (preserve) #FIXED 'preserve'"
+    },
+    {
+      "offset": 12438260,
+      "text": "  xml:space   (preserve)     #FIXED 'preserve'"
+    },
+    {
+      "offset": 12438599,
+      "text": "  xml:space   (preserve)     #FIXED 'preserve'"
+    },
+    {
+      "offset": 12441625,
+      "text": "  xml:space   (preserve)    #FIXED 'preserve'"
+    },
+    {
+      "offset": 12459287,
+      "text": "  xml:space   (preserve)     #FIXED 'preserve'"
+    },
+    {
+      "offset": 12459626,
+      "text": "  xml:space   (preserve)     #FIXED 'preserve'"
+    },
+    {
+      "offset": 12463278,
+      "text": "  xml:space   (preserve)    #FIXED 'preserve'"
+    },
+    {
+      "offset": 14623105,
+      "text": "GetWindowPlacement"
+    },
+    {
+      "offset": 14624157,
+      "text": "SHAppBarMessage"
+    },
+    {
+      "offset": 20902456,
+      "text": "reserved"
+    },
+    {
+      "offset": 20918888,
+      "text": "__preserve_none"
+    },
+    {
+      "offset": 22489292,
+      "text": "ExpandEnvironmentStringsW"
+    },
+    {
+      "offset": 22489452,
+      "text": "FreeEnvironmentStringsW"
+    },
+    {
+      "offset": 22489786,
+      "text": "GetEnvironmentStringsW"
+    },
+    {
+      "offset": 22489812,
+      "text": "GetEnvironmentVariableW"
+    },
+    {
+      "offset": 22490878,
+      "text": "SetEnvironmentVariableW"
+    },
+    {
+      "offset": 22494150,
+      "text": "_initialize_wide_environment"
+    },
+    {
+      "offset": 22494182,
+      "text": "_get_initial_wide_environment"
+    },
+    {
+      "offset": 25139968,
+      "text": "><winrtv1:activatableClass name=\"Microsoft.UI.Content.ContentIslandEnvironment\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.UI.Content.ContentSite\" threa"
+    },
+    {
+      "offset": 25140168,
+      "text": "dingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.UI.Content.ContentSiteEnvironment\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass name"
+    },
+    {
+      "offset": 25140368,
+      "text": "=\"Microsoft.UI.Content.ContentSiteEnvironmentView\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.UI.Content.ContentSiteView\" threadingModel=\"both\"></winrtv"
+    },
+    {
+      "offset": 25144368,
+      "text": "Class name=\"Microsoft.UI.Windowing.AppWindow\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.UI.Windowing.AppWindowPlacementDetails\" threadingModel=\"both\"><"
+    },
+    {
+      "offset": 25145368,
+      "text": "both\"></winrtv1:activatableClass></asmv3:file><asmv3:file name=\"wuceffectsi.dll\"><winrtv1:activatableClass name=\"Microsoft.UI.Composition.SystemBackdrops.DesktopAcrylicController\" threadingModel=\"both"
+    },
+    {
+      "offset": 25153968,
+      "text": "oft.Windows.Storage.ApplicationDataContainer\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.Windows.System.EnvironmentManager\" threadingModel=\"both\"></winr"
+    },
+    {
+      "offset": 25155968,
+      "text": "v1:activatableClass name=\"Microsoft.UI.Xaml.Automation.AutomationProperties\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.UI.Xaml.Automation.DockPatternId"
+    },
+    {
+      "offset": 25156968,
+      "text": "Automation.MultipleViewPatternIdentifiers\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.UI.Xaml.Automation.Peers.AppBarAutomationPeer\" threadingModel=\"bot"
+    },
+    {
+      "offset": 25157168,
+      "text": "h\"></winrtv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.UI.Xaml.Automation.Peers.AppBarButtonAutomationPeer\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass "
+    },
+    {
+      "offset": 25157368,
+      "text": "name=\"Microsoft.UI.Xaml.Automation.Peers.AppBarToggleButtonAutomationPeer\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.UI.Xaml.Automation.Peers.Automatio"
+    },
+    {
+      "offset": 25168568,
+      "text": "bleClass name=\"Microsoft.UI.Xaml.Controls.AppBar\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.UI.Xaml.Controls.AppBarButton\" threadingModel=\"both\"></winr"
+    },
+    {
+      "offset": 25168768,
+      "text": "tv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.UI.Xaml.Controls.AppBarElementContainer\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.UI.Xa"
+    },
+    {
+      "offset": 25168968,
+      "text": "ml.Controls.AppBarSeparator\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.UI.Xaml.Controls.AppBarToggleButton\" threadingModel=\"both\"></winrtv1:activatable"
+    },
+    {
+      "offset": 25178768,
+      "text": "icrosoft.UI.Xaml.Controls.MenuFlyoutSeparator\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.UI.Xaml.Controls.MenuFlyoutSubItem\" threadingModel=\"both\"></wi"
+    },
+    {
+      "offset": 25223168,
+      "text": "ontrols.TeachingTipTestHooks\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.UI.Private.Media.AcrylicTestApi\" threadingModel=\"both\"></winrtv1:activatableCla"
+    },
+    {
+      "offset": 25235568,
+      "text": "nrtv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.UI.Xaml.Controls.NavigationViewItemSeparator\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass name=\"Microsof"
+    },
+    {
+      "offset": 25246368,
+      "text": ".XamlControlsResources\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.UI.Xaml.Media.AcrylicBrush\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1"
+    },
+    {
+      "offset": 25246568,
+      "text": ":activatableClass name=\"Microsoft.UI.Xaml.Media.DesktopAcrylicBackdrop\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.UI.Xaml.Media.MicaBackdrop\" threading"
+    },
+    {
+      "offset": 25252568,
+      "text": "WebView2Environment\" threadingModel=\"both\"></winrtv1:activatableClass><winrtv1:activatableClass name=\"Microsoft.Web.WebView2.Core.CoreWebView2EnvironmentOptions\" threadingModel=\"both\"></winrtv1:activa"
+    }
+  ],
+  "limitations": "Presence only; names can originate in framework/runtime dependencies. No execution or call graph established."
+}

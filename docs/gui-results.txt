@@ -1,0 +1,23 @@
+test_cancelling_settings_leaves_configuration_unchanged (test_gui.GuiTests.test_cancelling_settings_leaves_configuration_unchanged) ... ok
+test_dense_layout_stays_inside_window_in_all_positions (test_gui.GuiTests.test_dense_layout_stays_inside_window_in_all_positions) ... ok
+test_environment_dots_select_the_corresponding_profile (test_gui.GuiTests.test_environment_dots_select_the_corresponding_profile) ... ok
+test_explicit_window_ownership_separates_two_windows_of_same_app (test_gui.GuiTests.test_explicit_window_ownership_separates_two_windows_of_same_app) ... ok
+test_folder_stack_lists_files_and_navigates (test_gui.GuiTests.test_folder_stack_lists_files_and_navigates) ... ok
+test_hidden_dock_does_not_reclaim_space_on_screen_change (test_gui.GuiTests.test_hidden_dock_does_not_reclaim_space_on_screen_change) ... ok
+test_island_and_topbar_follow_manual_visibility_and_shutdown (test_gui.GuiTests.test_island_and_topbar_follow_manual_visibility_and_shutdown) ... ok
+test_lens_grows_and_returns_to_baseline (test_gui.GuiTests.test_lens_grows_and_returns_to_baseline) ... ok
+test_lens_has_same_response_at_60_and_120_frames_per_second (test_gui.GuiTests.test_lens_has_same_response_at_60_and_120_frames_per_second) ... ok
+test_lens_keeps_reference_centers_fixed_during_magnification (test_gui.GuiTests.test_lens_keeps_reference_centers_fixed_during_magnification) ... ok
+test_native_appbar_callback_uses_windows_message_handle_and_ignores_other_bars (test_gui.GuiTests.test_native_appbar_callback_uses_windows_message_handle_and_ignores_other_bars) ... ok
+test_new_file_count_is_computed_in_background (test_gui.GuiTests.test_new_file_count_is_computed_in_background) ... ok
+test_no_motion_keeps_icons_still_and_grow_only_enlarges_hovered_app (test_gui.GuiTests.test_no_motion_keeps_icons_still_and_grow_only_enlarges_hovered_app) ... ok
+test_profile_edits_roundtrip_and_remove_without_losing_other_profile (test_gui.GuiTests.test_profile_edits_roundtrip_and_remove_without_losing_other_profile) ... ok
+test_profile_switch_and_pin_unpin (test_gui.GuiTests.test_profile_switch_and_pin_unpin) ... ok
+test_shelf_encloses_unmagnified_icons_at_every_size (test_gui.GuiTests.test_shelf_encloses_unmagnified_icons_at_every_size) ... ok
+test_trailing_controls_preserve_apps_first_and_allow_clean_dock (test_gui.GuiTests.test_trailing_controls_preserve_apps_first_and_allow_clean_dock) ... ok
+test_widgets_panel_has_a_card_for_every_widget (test_gui.GuiTests.test_widgets_panel_has_a_card_for_every_widget) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 3.338s
+
+OK
