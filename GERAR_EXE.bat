@@ -11,11 +11,11 @@ if not exist ".venv\Scripts\python.exe" (
 if errorlevel 1 goto failed
 ".venv\Scripts\python.exe" -m unittest discover -s tests -v
 if errorlevel 1 goto failed
-".venv\Scripts\python.exe" -m PyInstaller --noconfirm --clean --windowed --onedir --name NTDock --collect-submodules comtypes --collect-data tzdata --hidden-import PySide6.QtPdf --hidden-import PySide6.QtPdfWidgets --add-data "example-widgets;example-widgets" app.py
+".venv\Scripts\python.exe" -m PyInstaller --noconfirm --clean --windowed --onedir --name Dock --collect-submodules comtypes --collect-data tzdata --hidden-import PySide6.QtPdf --hidden-import PySide6.QtPdfWidgets --add-data "example-widgets;example-widgets" app.py
 if errorlevel 1 goto failed
 echo.
-echo Pronto: dist\NTDock\NTDock.exe
-echo Para levar a outro PC, copie toda a pasta dist\NTDock.
+echo Pronto: dist\Dock\Dock.exe
+echo Para levar a outro PC, copie toda a pasta dist\Dock.
 pause
 exit /b 0
 :failed

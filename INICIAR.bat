@@ -6,4 +6,4 @@ if not exist ".venv\Scripts\pythonw.exe" (
     pause
     exit /b 1
 )
-start "NT Dock" ".venv\Scripts\pythonw.exe" "%~dp0app.py"
+start "Dock" ".venv\Scripts\pythonw.exe" "%~dp0app.py"

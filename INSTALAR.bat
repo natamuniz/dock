@@ -2,7 +2,7 @@
 chcp 65001 >nul
 setlocal
 cd /d "%~dp0"
-echo Instalando NT Dock para este usuario...
+echo Instalando Dock para este usuario...
 where py >nul 2>nul
 if not errorlevel 1 (
     py -3 -c "import sys; assert (3,11) <= sys.version_info[:2] < (3,15), 'Use Python 3.11 a 3.14'"

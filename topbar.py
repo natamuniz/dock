@@ -29,7 +29,7 @@ class TopBar(QWidget):
         self.profile_menu = None
         self.dock_status = ""
         self.setObjectName("ntTopBar")
-        self.setWindowTitle("NT Dock · Barra superior")
+        self.setWindowTitle("Dock · Barra superior")
         self.setAttribute(Qt.WA_TranslucentBackground)
         self.setAttribute(Qt.WA_ShowWithoutActivating)
         self.setAttribute(Qt.WA_StyledBackground)

@@ -11,8 +11,8 @@ jobs:
           python-version: '3.12'
       - run: python -m pip install -r requirements.txt "pyinstaller>=6,<7"
       - run: python -m unittest discover -s tests -v
-      - run: python -m PyInstaller --noconfirm --clean --windowed --onedir --name NTDock --collect-submodules comtypes --collect-data tzdata --hidden-import PySide6.QtPdf --hidden-import PySide6.QtPdfWidgets --add-data "example-widgets;example-widgets" app.py
+      - run: python -m PyInstaller --noconfirm --clean --windowed --onedir --name Dock --collect-submodules comtypes --collect-data tzdata --hidden-import PySide6.QtPdf --hidden-import PySide6.QtPdfWidgets --add-data "example-widgets;example-widgets" app.py
       - uses: actions/upload-artifact@v4
         with:
-          name: NTDock-Windows
-          path: dist/NTDock/
+          name: Dock-Windows
+          path: dist/Dock/

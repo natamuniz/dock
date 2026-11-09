@@ -24,7 +24,7 @@ def main():
     config.update(replace_taskbar=False, isolate_profiles=False, auto_hide=False, rounded_windows=False)
     save_config(config)
     print(f"Barra de tarefas restaurada. Janelas restauradas: {restored}.")
-    print("Feche e reabra o NT Dock para carregar as opcoes de recuperacao.")
+    print("Feche e reabra o Dock para carregar as opcoes de recuperacao.")
 
 
 if __name__ == "__main__": main()

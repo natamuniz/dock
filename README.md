@@ -16,7 +16,7 @@ A instalação não solicita privilégios de administrador. A primeira instalaç
 
 ### Atualizar uma instalação existente
 
-1. Feche o aplicativo pelo menu **Sair do NT Dock** antes de substituir os arquivos.
+1. Feche o aplicativo pelo menu **Sair do Dock** antes de substituir os arquivos.
 2. Extraia este pacote e copie o conteúdo da pasta `NT_Dock` para a pasta que já contém seu `INICIAR.bat`, substituindo os arquivos.
 3. Abra **INICIAR.bat**. As configurações em `%APPDATA%\NTDock` e o ambiente `.venv` são mantidos. Esta correção não adiciona dependências.
 4. Se estiver usando um `.exe` gerado anteriormente, execute **GERAR_EXE.bat** novamente e passe a usar o novo executável.
@@ -70,7 +70,7 @@ O fundo usa transparência e gradiente. **Não implementa o desfoque óptico nat
 
 **Comportamento padrão:** o dock reserva uma faixa na borda selecionada, impedindo que janelas maximizadas cubram sua base. Essa reserva acompanha o tamanho dos ícones e é liberada ao ocultar manualmente o dock. Para usar sem faixa permanente, ative o modo auto-ocultar.
 
-**Para usar toda a tela:** habilite **Ocultar barra de tarefas enquanto o dock estiver aberto** e desmarque **Reservar espaço para o dock**. São duas reservas diferentes: a primeira opção libera a faixa da barra original; a segunda cria, se marcada, uma reserva própria para o NT Dock. Janelas já maximizadas com moldura padrão são ajustadas automaticamente à nova área útil, mantendo seu estado e sem roubar foco.
+**Para usar toda a tela:** habilite **Ocultar barra de tarefas enquanto o dock estiver aberto** e desmarque **Reservar espaço para o dock**. São duas reservas diferentes: a primeira opção libera a faixa da barra original; a segunda cria, se marcada, uma reserva própria para o Dock. Janelas já maximizadas com moldura padrão são ajustadas automaticamente à nova área útil, mantendo seu estado e sem roubar foco.
 
 A versão 0.2.1 usa `ABM_GETSTATE` / `ABM_SETSTATE` para preservar e restaurar a preferência de auto-ocultar do Windows. A versão anterior apenas escondia a janela da barra, o que podia deixar sua faixa reservada. O processo vigia e o script de recuperação manual agora também restauram essa preferência. Na versão 0.2.2, quando o Explorer não libera a reserva, o dock corrige somente a borda anteriormente ocupada pela barra, com registro para recuperação. As demais bordas e a reserva própria do dock são preservadas. A correção foi verificada em Windows real neste computador.
 
@@ -143,7 +143,7 @@ Se precisar restaurar manualmente, execute **RESTAURAR_WINDOWS.bat** e reabra o 
 
 ## Gerar executável e testar
 
-Execute **GERAR_EXE.bat** em um Windows com a instalação concluída. O script instala PyInstaller, executa os testes e gera `dist\NTDock\NTDock.exe`. Copie **a pasta inteira** `dist\NTDock`, incluindo suas bibliotecas, para executar em outro Windows compatível. O binário é gerado para a arquitetura do Python usado no build. Ele não é assinado digitalmente nem publicado na Microsoft Store.
+Execute **GERAR_EXE.bat** em um Windows com a instalação concluída. O script instala PyInstaller, executa os testes e gera `dist\Dock\Dock.exe`. Copie **a pasta inteira** `dist\Dock`, incluindo suas bibliotecas, para executar em outro Windows compatível. O binário é gerado para a arquitetura do Python usado no build. Ele não é assinado digitalmente nem publicado na Microsoft Store.
 
 Há um workflow opcional em `.github/workflows/windows-build.yml` para build manual no GitHub Actions. Ele só funciona depois de colocar este projeto num repositório e iniciar o workflow; nenhum repositório foi criado nem workflow executado nesta entrega.
 

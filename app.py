@@ -1,4 +1,4 @@
-"""NT Dock: personal Windows dock with macOS-inspired glass and magnification."""
+"""Dock: personal Windows dock with macOS-inspired glass and magnification."""
 from __future__ import annotations
 
 import ctypes
@@ -204,7 +204,7 @@ class WindowPreviews(QDialog):
 class WidgetsPanel(QDialog):
     def __init__(self, dock):
         super().__init__(dock, Qt.Tool)
-        self.dock = dock; self.setWindowTitle("NT Dock · Widgets"); self.resize(700, 600)
+        self.dock = dock; self.setWindowTitle("Dock · Widgets"); self.resize(700, 600)
         root = QVBoxLayout(self)
         title = QLabel("Seu painel"); title.setStyleSheet("font-size:25px;font-weight:bold;padding:10px"); root.addWidget(title)
         self.search = QLineEdit(); self.search.setPlaceholderText("Buscar widget…"); self.search.textChanged.connect(self.filter); root.addWidget(self.search)
@@ -264,7 +264,7 @@ class Dock(QWidget):
     def __init__(self, config, *, test_mode=False):
         super().__init__(None, Qt.FramelessWindowHint | Qt.Tool | Qt.WindowStaysOnTopHint | Qt.WindowDoesNotAcceptFocus)
         self.config, self.test_mode = config, test_mode
-        self.setWindowTitle("NT Dock")
+        self.setWindowTitle("Dock")
         self.setAttribute(Qt.WA_TranslucentBackground)
         self.setAttribute(Qt.WA_ShowWithoutActivating)
         self.setMouseTracking(True); self.setAcceptDrops(True)
@@ -294,8 +294,8 @@ class Dock(QWidget):
         self.clock = QTimer(self); self.clock.setInterval(1000); self.clock.timeout.connect(self.tick); self.clock.start()
         self.edge_timer = QTimer(self); self.edge_timer.setInterval(120); self.edge_timer.timeout.connect(self.edge_tick); self.edge_timer.start()
         self.hover_timer = QTimer(self); self.hover_timer.setSingleShot(True); self.hover_timer.setInterval(650); self.hover_timer.timeout.connect(self.preview_hover)
-        self.tray = QSystemTrayIcon(badge_icon("NT", "#56B7AF"), self)
-        self.tray.setToolTip("NT Dock · clique para mostrar/ocultar")
+        self.tray = QSystemTrayIcon(badge_icon("D", "#56B7AF"), self)
+        self.tray.setToolTip("Dock · clique para mostrar/ocultar")
         self.tray.activated.connect(lambda reason: self.toggle_visibility() if reason == QSystemTrayIcon.Trigger else None)
         self.tray.setContextMenu(self.build_menu())
         if not test_mode and QSystemTrayIcon.isSystemTrayAvailable(): self.tray.show()
@@ -347,7 +347,7 @@ class Dock(QWidget):
         if native.IS_WINDOWS:
             menu.addAction("Abrir Lixeira", lambda: QDesktopServices.openUrl(QUrl("shell:RecycleBinFolder")))
             menu.addAction("Restaurar barra e janelas agora", self.restore_windows)
-        menu.addSeparator(); menu.addAction("Sair do NT Dock", self.quit)
+        menu.addSeparator(); menu.addAction("Sair do Dock", self.quit)
         return menu
 
     def notify(self, title, message):
@@ -1228,7 +1228,7 @@ class Dock(QWidget):
 
 
 def main():
-    app = QApplication(sys.argv); app.setApplicationName("NT Dock"); app.setOrganizationName("NTHub")
+    app = QApplication(sys.argv); app.setApplicationName("Dock"); app.setOrganizationName("NTHub")
     app.setStyle("Fusion"); app.setStyleSheet(STYLE); app.setQuitOnLastWindowClosed(False)
     directory = config_path().parent; directory.mkdir(parents=True, exist_ok=True)
     examples = Path(__file__).with_name("example-widgets")
@@ -1245,7 +1245,7 @@ def main():
     server_name = socket.serverName(); QLocalServer.removeServer(server_name)
     server = QLocalServer()
     if not server.listen(server_name):
-        QMessageBox.warning(None, "NT Dock", "Não foi possível criar o canal de instância única."); return 1
+        QMessageBox.warning(None, "Dock", "Não foi possível criar o canal de instância única."); return 1
     config, warning = load_config()
     dock = Dock(config); dock.show()
     app.aboutToQuit.connect(dock.shutdown_services)

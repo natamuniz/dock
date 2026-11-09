@@ -96,13 +96,13 @@ class SettingsDialog(QDialog):
         self.config = copy.deepcopy(config)
         self.engine = engine
         self.current = -1
-        self.setWindowTitle("NT Dock · Ajustes")
+        self.setWindowTitle("Dock · Ajustes")
         screen = parent.chosen_screen() if parent is not None and hasattr(parent, "chosen_screen") else QApplication.primaryScreen()
         available_height = screen.availableGeometry().height() if screen is not None else 754
         self.resize(960, max(560, min(690, available_height - 64)))
         self.setMinimumSize(820, 560)
         root = QVBoxLayout(self)
-        title = QLabel("NT Dock <span style='font-size:14px;font-weight:400;color:#A3B1C2'> / Ajustes</span>")
+        title = QLabel("Dock <span style='font-size:14px;font-weight:400;color:#A3B1C2'> / Ajustes</span>")
         title.setStyleSheet("font-size:24px;font-weight:600;padding:8px")
         root.addWidget(title)
         self.tabs = QTabWidget()
@@ -544,7 +544,7 @@ class SettingsDialog(QDialog):
         try:
             data = self.collect()
             data["widget_options"] = {k: v for k, v in data.get("widget_options", {}).items() if not k.endswith("api_key")}
-            path = QFileDialog.getSaveFileName(self, "Exportar", "NTDock-backup.json", "JSON (*.json)")[0]
+            path = QFileDialog.getSaveFileName(self, "Exportar", "Dock-backup.json", "JSON (*.json)")[0]
             if path: save_config(data, path, backup=False)
         except (ValueError, OSError) as exc: QMessageBox.warning(self, "Exportação", str(exc))
 

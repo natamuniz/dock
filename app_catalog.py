@@ -131,7 +131,7 @@ class AppPickerDialog(QDialog):
         self._records = []
         self._loaded = 0
         self._provider = QFileIconProvider()
-        self.setWindowTitle("Adicionar aplicativo · NT Dock")
+        self.setWindowTitle("Adicionar aplicativo · Dock")
         self.resize(580, 540)
         self.setMinimumSize(430, 380)
         layout = QVBoxLayout(self); layout.setSpacing(12)

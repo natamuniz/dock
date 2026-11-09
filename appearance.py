@@ -1,4 +1,4 @@
-"""Original NT Dock palettes, informed by observed desktop dock treatments."""
+"""Original Dock palettes, informed by observed desktop dock treatments."""
 from __future__ import annotations
 import re
 

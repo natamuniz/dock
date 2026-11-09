@@ -1,4 +1,4 @@
-"""Original compact status island for NT Dock; no external information is inferred."""
+"""Original compact status island for Dock; no external information is inferred."""
 from __future__ import annotations
 
 from datetime import datetime
@@ -67,7 +67,7 @@ class Island(QWidget):
         self._closed = False
         self._deadlines = {}
         self.current_state = island_state(dock)
-        self.setWindowTitle("NT Dock · Ilha")
+        self.setWindowTitle("Dock · Ilha")
         self.setObjectName("NTIsland")
         self.setAttribute(Qt.WA_TranslucentBackground)
         self.setAttribute(Qt.WA_ShowWithoutActivating)
